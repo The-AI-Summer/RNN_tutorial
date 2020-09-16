@@ -1,4 +1,4 @@
-# AI SUMMEr RNN tutorial
+# AI SUMMER RNN tutorial
 ### Blog post
 [Recurrent neural networks: building a custom LSTM/GRU cell in PyTorch](https://theaisummer.com/understanding-lstm/)
 [Open in Collab](https://drive.google.com/file/d/1Rb8OiF-AZ_Y3uFj1O2S0IyocFMhHoTCV/edit)
